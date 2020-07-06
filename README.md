@@ -19,4 +19,7 @@ I am interested in algorithm design and computational complexity.
 * UCF Distinguished Undergraduate Researcher Award (2020)
 ***
 ## Miscellaneous
-* Reading List
+* [Reading List]()
+* [Logic and recursion theory investigation]()
+* [Simulating DeMorgan formulas with pattern matching on graphs]()
+* [Space-time tradeoff for the shortest unique substring problem]()
