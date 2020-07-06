@@ -10,14 +10,10 @@
 I am interested 
 ***
 ## Publications
-	*	Jason Bentley, Gary Hoppenworth, Daniel Gibney, Sharma V. Thankachan
-		<br> 
-		<em>
-			The Fine-grained Complexity of Median and Center String Problems under Edit Distance
-		</em>
-		<br> 
-		European Symposium on Algorithms (ESA) 2020
-		<a href="https://www.cs.ucf.edu/~sharma/papers/k_Edit_Distance.pdf">[link]</a>
+
+* *The Fine-grained Complexity of Median and Center String Problems under Edit Distance*  
+   Gary Hoppenworth, Jason Bentley, Daniel Gibney, Sharma V. Thankachan  
+   European Symposium on Algorithms (ESA) 2020 [link](https://www.cs.ucf.edu/~sharma/papers/k_Edit_Distance.pdf)
 ***
 ## Miscellaneous
 * Reading List
