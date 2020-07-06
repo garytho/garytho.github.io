@@ -20,6 +20,5 @@ I am interested in algorithm design and computational complexity.
 ***
 ## Miscellaneous
 * [Reading List]()
-* [Logic and recursion theory investigation]()
-* [Simulating DeMorgan formulas with pattern matching on graphs]()
-* [Space-time tradeoff for the shortest unique substring problem]()
+* [Logic and recursion theory investigation](./data/investigation.pdf)
+* [Space-time tradeoff for the shortest unique substring problem](./data/SUS_space_time_tradeoff.pdf)
