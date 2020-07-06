@@ -20,5 +20,5 @@ I am interested in algorithm design and computational complexity.
 ***
 ## Miscellaneous
 * [Reading List]()
-* [Logic and recursion theory investigation](./data/investigation.pdf)
+* [Logic and recursion theory investigation](./data/logic_investigation.pdf)
 * [Space-time tradeoff for the shortest unique substring problem](./data/SUS_space_time_tradeoff.pdf)
