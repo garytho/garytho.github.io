@@ -4,7 +4,7 @@
 **Math and Computer Science Major**  
 **Research Advisors:** [Sharma V. Thankachan](http://www.cs.ucf.edu/~sharma/), [Sumit K. Jha](https://sumitkumarjha.com/)  
 **Email:** [Gary.Hoppenworth@gmail.com]()  
-**[Resume]**(./data/resume.pdf)
+[Resume](./data/resume.pdf)
 ***
 ## Research  
 I am interested in algorithm design and computational complexity. 
