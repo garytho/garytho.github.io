@@ -4,7 +4,7 @@
 **Math and Computer Science Major**  
 **Research Advisors:** [Sharma V. Thankachan](http://www.cs.ucf.edu/~sharma/), [Sumit K. Jha](https://sumitkumarjha.com/)  
 **Email:** [Gary.Hoppenworth@gmail.com]()
-**Github:** [github.com/garytho](github.com/garytho)
+**Github:** [github.com/garytho](https://github.com/garytho)
 ***
 ## Research 
 ***
