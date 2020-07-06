@@ -19,6 +19,6 @@ I am interested in algorithm design and computational complexity.
 * UCF Distinguished Undergraduate Researcher Award (2020)
 ***
 ## Miscellaneous
-* [Reading List]()
 * [Logic and recursion theory investigation](./data/logic_investigation.pdf)
 * [Space-time tradeoff for the shortest unique substring problem](./data/SUS_space_time_tradeoff.pdf)
+* [Reading List](./reading_list.md)
