@@ -14,7 +14,9 @@ I am interested in algorithm design and computational complexity.
    Gary Hoppenworth, Jason Bentley, Daniel Gibney, Sharma V. Thankachan  
    European Symposium on Algorithms (ESA) 2020 [[link](https://www.cs.ucf.edu/~sharma/papers/k_Edit_Distance.pdf)]
 ***
-Awards 
+## Awards
+* Barry M. Goldwater Scholarship (2020)
+* UCF Distinguished Undergraduate Researcher Award (2020)
 ***
 ## Miscellaneous
 * Reading List
